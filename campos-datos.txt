@@ -2,6 +2,8 @@ Inventario automotríz
 
 Aplicación para administrar los diagnósticos realizados en un taller mecánico
 
+git remote add origin git@github.com:jicaicedos/inventario_automotriz.git
+
 placa
 marca
 linea
